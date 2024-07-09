@@ -18,7 +18,7 @@ This report conducts a comprehensive comparison between market performance and s
 
 This project includes various Profit and Loss (P&L) reports for financial analysis:
 
-- P&L Statement by Fiscal Year: This report provides a comprehensive view of the financial performance by fiscal year. You can find the report [here](https://github.com/Rishabhnegii3216/AtliQ_Hardware_Sales_Report_Excel/blob/main/P%26L%20Final%20year.pdf).
+- P&L Statement by Fiscal Year: This report provides a comprehensive view of the financial performance by fiscal year. You can find the report [here](https://github.com/Rishabhnegii3216/AtliQ_Hardware_Sales_Report_Excel/blob/main/P%26L%20by%20Fiscal%20year.pdf)
 
 - P&L Statement by Months: This report breaks down the financial performance by months. You can find the report [here](https://github.com/Rishabhnegii3216/AtliQ_Hardware_Sales_Report_Excel/blob/main/P%26L%20by%20Months.pdf).
 
