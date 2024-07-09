@@ -10,7 +10,7 @@ This report analyzes customer behavior and performance. It provides insights int
 
 ### Market Performance vs. Sales Targets Report
 
-This report conducts a comprehensive comparison between market performance and sales targets. It helps evaluate the effectiveness of sales strategies and identify areas for improvement. You can find the report [here](https://github.com/RavinaKarnik/Excel-Sales-and-alaysis./blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
+This report conducts a comprehensive comparison between market performance and sales targets. It helps evaluate the effectiveness of sales strategies and identify areas for improvement. You can find the report [here](https://github.com/Rishabhnegii3216/AtliQ_Hardware_Sales_Report_Excel/blob/main/Market%20performance%20vs%20Target.pdf).
 
 ## Finance Report
 
@@ -18,22 +18,18 @@ This report conducts a comprehensive comparison between market performance and s
 
 This project includes various Profit and Loss (P&L) reports for financial analysis:
 
-- P&L Statement by Fiscal Year: This report provides a comprehensive view of the financial performance by fiscal year. You can find the report [here](https://github.com/RavinaKarnik/Excel-Sales-and-alaysis./blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf).
+- P&L Statement by Fiscal Year: This report provides a comprehensive view of the financial performance by fiscal year. You can find the report [here](https://github.com/Rishabhnegii3216/AtliQ_Hardware_Sales_Report_Excel/blob/main/P%26L%20Final%20year.pdf).
 
-- P&L Statement by Months: This report breaks down the financial performance by months. You can find the report [here](https://github.com/RavinaKarnik/Excel-Sales-and-alaysis./blob/main/P%26L%20Statement%20by%20Months.pdf).
+- P&L Statement by Months: This report breaks down the financial performance by months. You can find the report [here](https://github.com/Rishabhnegii3216/AtliQ_Hardware_Sales_Report_Excel/blob/main/P%26L%20by%20Months.pdf).
 
-- P&L by Markets: This report analyzes the financial performance by markets. You can find the report [here](https://github.com/RavinaKarnik/Excel-Sales-and-alaysis./blob/main/P%26L%20by%20markets%20.pdf).
+- P&L by Markets: This report analyzes the financial performance by markets. You can find the report [here](https://github.com/Rishabhnegii3216/AtliQ_Hardware_Sales_Report_Excel/blob/main/P%26L%20by%20Market.pdf).
 
 ##Gross Margin(GM) Statements
-- This project also includes Percentage of Gross Margin based on subzones present in the dataset.You can find the report [here](https://github.com/RavinaKarnik/Excel-Sales-and-alaysis./blob/main/GM%25%20by%20subzone.pdf)
+- This project also includes Percentage of Gross Margin based on subzones present in the dataset.You can find the report [here](https://github.com/Rishabhnegii3216/AtliQ_Hardware_Sales_Report_Excel/blob/main/GM%25%20by%20zone.pdf)
 
 ## Usage
 
-1. Clone the repository:
-
-   
-   git clone https://github.com/RavinaKarnik/Excel-Sales-and-alaysis..git
-   
+1- Created by Rishabh Negi   
 
 2. Open the Excel files in Microsoft Excel or any compatible spreadsheet software.
 
@@ -51,4 +47,4 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 - Special thanks to the contributors and developers of Excel and related tools for enabling powerful data analysis and reporting capabilities.
 
 ## Linkedln post Link:-
-https://www.linkedin.com/feed/update/urn:li:activity:7114959777276866561/
+https://www.linkedin.com/posts/rishbh-negi-470b55219_exciting-update-im-very-happy-to-share-activity-7216406587395952640-ylWi?utm_source=share&utm_medium=member_desktop
