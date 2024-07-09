@@ -47,4 +47,4 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 - Special thanks to the contributors and developers of Excel and related tools for enabling powerful data analysis and reporting capabilities.
 
 ## Linkedln post Link:-
-https://www.linkedin.com/posts/rishbh-negi-470b55219_exciting-update-im-very-happy-to-share-activity-7216406587395952640-ylWi?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/rishbh-negi-470b55219_pl-and-market-performance-activity-7216415742857003008-13ub?utm_source=share&utm_medium=member_desktop
